@@ -2055,7 +2055,7 @@ input, select, textarea {
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.5;
+			opacity: 0.1;
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -2063,6 +2063,7 @@ input, select, textarea {
 
 		.image.thumb {
 			text-align: center;
+			height: 70%;
 		}
 
 			.image.thumb:after {
@@ -2101,6 +2102,7 @@ input, select, textarea {
 		.image img {
 			border-radius: 0.35em;
 			display: block;
+			height: 100%;
 		}
 
 		.image.left {
